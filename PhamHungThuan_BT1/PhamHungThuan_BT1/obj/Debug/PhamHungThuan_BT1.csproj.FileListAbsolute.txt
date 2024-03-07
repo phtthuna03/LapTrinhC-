@@ -1,0 +1,7 @@
+E:\LapTrinhC#\PhamHungThuan_BT1\PhamHungThuan_BT1\bin\Debug\PhamHungThuan_BT1.exe.config
+E:\LapTrinhC#\PhamHungThuan_BT1\PhamHungThuan_BT1\bin\Debug\PhamHungThuan_BT1.exe
+E:\LapTrinhC#\PhamHungThuan_BT1\PhamHungThuan_BT1\bin\Debug\PhamHungThuan_BT1.pdb
+E:\LapTrinhC#\PhamHungThuan_BT1\PhamHungThuan_BT1\obj\Debug\PhamHungThuan_BT1.csproj.AssemblyReference.cache
+E:\LapTrinhC#\PhamHungThuan_BT1\PhamHungThuan_BT1\obj\Debug\PhamHungThuan_BT1.csproj.CoreCompileInputs.cache
+E:\LapTrinhC#\PhamHungThuan_BT1\PhamHungThuan_BT1\obj\Debug\PhamHungThuan_BT1.exe
+E:\LapTrinhC#\PhamHungThuan_BT1\PhamHungThuan_BT1\obj\Debug\PhamHungThuan_BT1.pdb

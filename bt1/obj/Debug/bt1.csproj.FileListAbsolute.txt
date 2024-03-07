@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\bt1\bin\Debug\bt1.exe.config
+C:\Users\ADMIN\source\repos\bt1\bin\Debug\bt1.exe
+C:\Users\ADMIN\source\repos\bt1\bin\Debug\bt1.pdb
+C:\Users\ADMIN\source\repos\bt1\obj\Debug\bt1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\bt1\obj\Debug\bt1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\bt1\obj\Debug\bt1.exe
+C:\Users\ADMIN\source\repos\bt1\obj\Debug\bt1.pdb
+E:\LapTrinhC#\bt1\bin\Debug\bt1.exe.config
+E:\LapTrinhC#\bt1\bin\Debug\bt1.exe
+E:\LapTrinhC#\bt1\bin\Debug\bt1.pdb
+E:\LapTrinhC#\bt1\obj\Debug\bt1.csproj.AssemblyReference.cache
+E:\LapTrinhC#\bt1\obj\Debug\bt1.csproj.CoreCompileInputs.cache
+E:\LapTrinhC#\bt1\obj\Debug\bt1.exe
+E:\LapTrinhC#\bt1\obj\Debug\bt1.pdb
