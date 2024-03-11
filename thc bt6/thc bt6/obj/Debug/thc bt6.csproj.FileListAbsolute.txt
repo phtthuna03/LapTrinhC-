@@ -1,0 +1,7 @@
+E:\LapTrinhC#\thc bt6\thc bt6\bin\Debug\thc bt6.exe.config
+E:\LapTrinhC#\thc bt6\thc bt6\bin\Debug\thc bt6.exe
+E:\LapTrinhC#\thc bt6\thc bt6\bin\Debug\thc bt6.pdb
+E:\LapTrinhC#\thc bt6\thc bt6\obj\Debug\thc bt6.csproj.AssemblyReference.cache
+E:\LapTrinhC#\thc bt6\thc bt6\obj\Debug\thc bt6.csproj.CoreCompileInputs.cache
+E:\LapTrinhC#\thc bt6\thc bt6\obj\Debug\thc bt6.exe
+E:\LapTrinhC#\thc bt6\thc bt6\obj\Debug\thc bt6.pdb

@@ -1,0 +1,7 @@
+E:\LapTrinhC#\thc bt5\thc bt5\bin\Debug\thc bt5.exe.config
+E:\LapTrinhC#\thc bt5\thc bt5\bin\Debug\thc bt5.exe
+E:\LapTrinhC#\thc bt5\thc bt5\bin\Debug\thc bt5.pdb
+E:\LapTrinhC#\thc bt5\thc bt5\obj\Debug\thc bt5.csproj.AssemblyReference.cache
+E:\LapTrinhC#\thc bt5\thc bt5\obj\Debug\thc bt5.csproj.CoreCompileInputs.cache
+E:\LapTrinhC#\thc bt5\thc bt5\obj\Debug\thc bt5.exe
+E:\LapTrinhC#\thc bt5\thc bt5\obj\Debug\thc bt5.pdb
