@@ -1,0 +1,7 @@
+E:\LapTrinhC#\PhamHungThuan_BTLINQ2\PhamHungThuan_BTLINQ2\bin\Debug\PhamHungThuan_BTLINQ2.exe.config
+E:\LapTrinhC#\PhamHungThuan_BTLINQ2\PhamHungThuan_BTLINQ2\bin\Debug\PhamHungThuan_BTLINQ2.exe
+E:\LapTrinhC#\PhamHungThuan_BTLINQ2\PhamHungThuan_BTLINQ2\bin\Debug\PhamHungThuan_BTLINQ2.pdb
+E:\LapTrinhC#\PhamHungThuan_BTLINQ2\PhamHungThuan_BTLINQ2\obj\Debug\PhamHungThuan_BTLINQ2.csproj.AssemblyReference.cache
+E:\LapTrinhC#\PhamHungThuan_BTLINQ2\PhamHungThuan_BTLINQ2\obj\Debug\PhamHungThuan_BTLINQ2.csproj.CoreCompileInputs.cache
+E:\LapTrinhC#\PhamHungThuan_BTLINQ2\PhamHungThuan_BTLINQ2\obj\Debug\PhamHungThuan_BTLINQ2.exe
+E:\LapTrinhC#\PhamHungThuan_BTLINQ2\PhamHungThuan_BTLINQ2\obj\Debug\PhamHungThuan_BTLINQ2.pdb
